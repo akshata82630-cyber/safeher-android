@@ -1,4 +1,4 @@
-const backendUrl = process.env.SAFEHER_SERVER_URL || 'https://example.invalid/SafeHer/';
+const backendUrl = 'https://safeher.ifree.page/';
 
 /** @type {import('@capacitor/cli').CapacitorConfig} */
 module.exports = {
